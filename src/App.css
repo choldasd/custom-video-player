@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+}
+
+.card {
+  padding: 2em;
+  display: inline-block;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.video-player {
+  display: inline-block;
+}
+.video-player-wrapper {
+  float: left;
+  margin: 10px;
+}
+.video-player-controls {
+  float: right;
+}
+
+.video-player-content {
+}
+
+.btn {
+  margin: 3px;
+  border: 2px solid blue;
+}
+.btn.btn-normal {
+  background-color: crimson;
+}
